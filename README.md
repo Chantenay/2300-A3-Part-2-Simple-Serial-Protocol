@@ -4,4 +4,6 @@ Part 2 of Networked Instrument is an implementation of a simple serial protocol 
 
 Written S1 2020
 
+Grade: 84
+
 <https://cs.anu.edu.au/courses/comp2300/deliverables/03-networked-instrument/>
